@@ -1,11 +1,13 @@
 @charset "UTF-8";
-body{
+
+body {
     background-color: rgb(105, 93, 93);
-   position: fixed;
-   text-align: center;
-   left: 30%;
-   font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    text-align: center;
+    left: 30%;
+    font-family: Arial, Helvetica, sans-serif;
 }
-a{
+
+a {
     color: black;
 }
