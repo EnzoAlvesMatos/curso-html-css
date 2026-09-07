@@ -12,8 +12,8 @@
   <h2>💾 Tecnologias Usadas</h2>
   <h3>🛜 Linguagens de Programação e Marcação</h3>
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
   </div>
   
   <h3>⌨️ Software e Ferramentas</h3>
